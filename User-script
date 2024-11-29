@@ -214,7 +214,7 @@
                             }
                         }, 50);
                     } catch (error) {
-                        dynamicText.textContent = 'Error processing link. Please try again.';
+                        dynamicText.textContent = 'SHIT!!! Error processing link. Please try again.';
                     }
                 }
             </script>
